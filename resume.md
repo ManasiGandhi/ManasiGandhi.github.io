@@ -18,7 +18,7 @@ Degree Awarded
 ## Awards
 
 `2012`
-Name of Award, Organization 
+__Name of Award, Organization__ 
 
 ## Publications
 
