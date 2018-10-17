@@ -1,12 +1,9 @@
 # Site navigation links
  -title: Home
   subfolderitems:
-  
-
- - page: Index
-   url: /index.md
-   
-  -page: Resume
-   url: /resume.md
+    - page: Index
+      url: /index.md
+    -page: Resume
+     url: /resume.md
    
   
