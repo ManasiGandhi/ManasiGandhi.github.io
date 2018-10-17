@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Techcnical Writer, ITECS, NC State University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+__North Carolina State University__
+MS Technical Communication (anticipated 2019)
 
-## Awards
 
-`2012`
-__Name of Award, Organization__ 
+__University of Cambridge, UK__
+Post Graduate Certificate, Education
+
+__University of Mumbai, India__
+MA History
+
+
 
 ## Publications
 
