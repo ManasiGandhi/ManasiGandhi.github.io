@@ -1,15 +1,12 @@
 # Site navigation links
  -title: Home
-  url: /about/
-
- -title: Presentations
-  url: /presentations/
-
- -title: Resume
-  url: /resume.md
-
- -title: Blog
-  url: /blog/
+  subfolderitems:
   
-   -title: About
-  url: /about/
+
+ - page: Index
+   url: /index.md
+   
+  -page: Resume
+   url: /resume.md
+   
+  
