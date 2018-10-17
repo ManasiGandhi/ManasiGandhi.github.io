@@ -3,11 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-here is some new texts
+
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+I was always passionate about writing. After exploring the field as a freelance writer for several web portals I decided to delve deeper and signed up as a Graduate student of Technical Communication at the North Carolina State University, Raleigh. My background in education inspired me to convert complex pieces of information into easily understandable content. I haven't looked back since.
