@@ -3,7 +3,7 @@
   subfolderitems:
     - page: Index
       url: /index.md
-    -page: Resume
-     url: /resume.md
+    - page: Resume
+      url: /resume.md
    
   
