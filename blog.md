@@ -23,4 +23,4 @@ According to the World Health Organization (WHO) 2011 Disability Report, there a
 
 Educational institutions could also incorporate web accessibility into their curriculum, which is currently a lacking feature. This will not only increase student awareness about the concept but also prepare them for their future professions and possibly fill the gap of web accessibility specialists in the job market. Above everything, it means we care. Let’s make web accessibility a priority, not an afterthought.
 
-(Previously published on the STC-Carolina Blog
+(Previously published on the STC-Carolina Blog)
