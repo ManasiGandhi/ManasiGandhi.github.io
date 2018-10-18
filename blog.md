@@ -3,6 +3,7 @@ layout: post-index
 title: All Blog Posts
 ---
 
+
 ## Web Accessibility: Priority or Afterthought?
 
 
