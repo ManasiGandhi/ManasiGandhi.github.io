@@ -7,7 +7,6 @@ title: All Blog Posts
 ## Web Accessibility: Priority or Afterthought?
 
 
-
 All content on the web needs to be accessible. The term “web accessibility” refers to removing any difficulties in accessing the web so that people with different abilities can use it to accomplish everyday tasks, despite their visual, hearing, cognitive, age-related or other limitations. This includes adding alt-text to images, making proper use of headings, captioning videos and so on.
 
 The virtual world is an extension of the physical world. Most people access the internet daily using various devices like computers, laptops, tablets, mobiles etc. There is an overall awareness about the concept of accessibility in the physical world. For example, we cannot imagine public spaces without ramps. But most people are not aware of the concept of web accessibility.
