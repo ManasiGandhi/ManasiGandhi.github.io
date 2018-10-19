@@ -8,6 +8,7 @@
   category: blog
   ---
   
+  
   ## Web Accessibility: Priority or Afterthought?
   
   All content on the web needs to be accessible. The term “web accessibility” refers to removing any difficulties in accessing the web so that people with different abilities can use it to accomplish everyday tasks, despite their visual, hearing, cognitive, age-related or other limitations. This includes adding alt-text to images, making proper use of headings, captioning videos and so on.
@@ -25,3 +26,5 @@ Ensuring web accessibility is a team effort. Web developers have a role to play.
 According to the World Health Organization (WHO) 2011 Disability Report, there are more than 1 billion people with disabilities in the world. Thus, web accessibility makes perfect sense. Even if you believe that you are not legally bound  by web accessibility standards, complying with them only means that you cater to more users. This means increased profits for businesses and avoidance of potential lawsuits.
 
 Educational institutions could also incorporate web accessibility into their curriculum, which is currently a lacking feature. This will not only increase student awareness about the concept but also prepare them for their future professions and possibly fill the gap of web accessibility specialists in the job market. Above everything, it means we care. Let’s make web accessibility a priority, not an afterthought
+
+(Previously published on the STC Carolina Blog)
