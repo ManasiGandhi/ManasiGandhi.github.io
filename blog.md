@@ -1,6 +1,6 @@
 ---
 layout: post-index
-excerpt: "Recent posts"
+All Blog Posts
 ---
 
 
