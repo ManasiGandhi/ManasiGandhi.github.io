@@ -1,12 +1,12 @@
+---
 layout: post
-title: Web Accessibility Priority or Afterthought?
-excerpt: "Should Web Accessibility be an Afterthougth?"
-modified: 10/9/2018, 9:00:24
+title: [Web Accessibility: Priority or Afterthought?]
+excerpt: [Web Accessibility: Priority or Afterthought]
+modified: 10/19/18
 tags: []
 comments: true
 category: blog
-
-  
+  ---
   
   ## Web Accessibility: Priority or Afterthought?
   
