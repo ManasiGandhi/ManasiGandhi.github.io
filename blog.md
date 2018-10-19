@@ -1,6 +1,6 @@
 ---
 layout: post-index
-All Blog Posts
+title: All Blog Posts
 ---
 
 
