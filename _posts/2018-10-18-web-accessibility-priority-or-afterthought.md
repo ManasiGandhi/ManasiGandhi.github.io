@@ -6,7 +6,7 @@ modified: 10/19/18
 tags: []
 comments: true
 category: blog
-  ---
+---
   
   ## Web Accessibility: Priority or Afterthought?
   
